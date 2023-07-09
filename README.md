@@ -35,7 +35,7 @@ $ Choose username and room-
 
 $ Now you can talk to anyone in the room
 
-<img width="222" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/519b6a18-263e-4c6f-a929-64d8e6955968">
+<img width="914" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/d7fda867-fc1a-473d-891d-fed424fd5459">
 
 
 
