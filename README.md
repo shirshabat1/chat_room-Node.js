@@ -22,7 +22,7 @@ For development, you can use Visual Studio Code with Node.js package.
 
 Open `.env` and choose which port would you like to listen
 
-## Running the project in the terminal
+## Running the project via terminal
 $ npm run dev
 $ Open the link received from the run
 
@@ -33,7 +33,7 @@ $ Choose username and room-
 
 <img width="295" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/664f1d6c-2a1e-4500-9d23-f65f04aa2454">
 
-$ Now you can talk to anyone in the room
+$ Now you can talk to any participant in the room
 
 <img width="914" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/d7fda867-fc1a-473d-891d-fed424fd5459">
 
