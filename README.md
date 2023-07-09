@@ -32,7 +32,7 @@ Open `.env` and choose which port would you like to listen
     <img width="295" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/664f1d6c-2a1e-4500-9d23-f65f04aa2454">
 
     $ Now you can talk to anyone in the room
-    <img width="857" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/d8ed6676-f2cf-464b-9f1c-1f26eca400d0">
+    <img width="400" alt="image" src="https://github.com/shirshabat1/chat_room-Node.js/assets/77749228/d8ed6676-f2cf-464b-9f1c-1f26eca400d0">
 
 
 
