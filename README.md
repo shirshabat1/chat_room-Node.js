@@ -1,8 +1,11 @@
 # chat_room-Node.js
 
-# Project Title
+# chat_room
 
-A nice project with a nice description
+With the help of the chat you can communicate with different users in a certain room.
+When entering the application, the user selects a username and room.
+So that any message the user enters will be broadcast to the entire room.
+A message that a new user has joined - will be broadcast to all participants in the room except for the new user.
 
 ---
 ## Requirements
