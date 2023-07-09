@@ -14,7 +14,7 @@ For development, you can use Visual Studio Code with Node.js package.
 
 ## Install
 
-    $ git clone(https://github.com/shirshabat1/chat_room-Node.js.git
+    $ git clone https://github.com/shirshabat1/chat_room-Node.js.git
     $ cd chat_room-Node.js
     $ npm i express 
 
