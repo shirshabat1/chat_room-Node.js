@@ -90,8 +90,4 @@ chatForm.addEventListener('submit', (e) => {
 });
  
 
- 
-  // // Clear input
-  // e.target.elements.msg.value = '';
-  // e.target.elements.msg.focus();
-// });
+
