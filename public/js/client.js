@@ -89,27 +89,7 @@ chatForm.addEventListener('submit', (e) => {
   e.target.elements.msg.focus();
 });
  
-//   // Emit message to server
-//   socket.emit('chatMessage', msg);
- 
-//   // Clear input
-//   e.target.elements.msg.value = '';
-//   e.target.elements.msg.focus();
-// });
-  // e.preventDefault();
-  // console.log(e);
- 
-  // // Get message text
-  // let msg = e.target.elements.msg.value;
- 
-  // msg = msg.trim();
- 
-  // if (!msg) {
-  //   return false;
-  // }
- 
-  // // Emit message to server
-  // socket.emit('chatMessage', msg);
+
  
   // // Clear input
   // e.target.elements.msg.value = '';
